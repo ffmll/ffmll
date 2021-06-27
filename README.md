@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ffmll
+- 👀 I’m interested in learning Python and other programming languages
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me through Discord. f m l#0808
